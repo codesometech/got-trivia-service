@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: mongodb.myproject.svc
+      port: 27017
+      username: admin
+      password: admin
+      database: demodb
